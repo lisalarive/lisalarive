@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=96B7E5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+%26+SQL+Developer;Turning+logic+into+solutions" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br/>
   
   <a href="mailto:lisa.larive.22@gmail.com"><img src="https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=gmail&logoColor=96B7E5" /></a>
   <a href="https://linktr.ee/lisalarive"><img src="https://img.shields.io/badge/Linktree-212121?style=for-the-badge&logo=linktree&logoColor=96B7E5" /></a>
