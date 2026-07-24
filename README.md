@@ -5,12 +5,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=96B7E5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+SQL+Developer;Turning+logic+into+solutions" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+   <br/><br/>
   
   <div align="center">
-  <a href="mailto:lisa.larive.22@gmail.com"><img src="https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=gmail&logoColor=96B7E5" alt="Email" /></a>
+  <a href="mailto:lisa.larive.22@gmail.com"><img src="https://img.shields.io/badge/lisa.larive.22@gmail.com-212121?style=for-the-badge&logo=gmail&logoColor=96B7E5" alt="Email" /></a>
   <a href="https://linktr.ee/lisa_larive"><img src="https://img.shields.io/badge/Linktree-212121?style=for-the-badge&logo=linktree&logoColor=96B7E5" alt="Linktree" /></a>
-  <a href="https://www.linkedin.com/in/lisa-larive/"><img src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=96B7E5&v=2" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/lisa-larive/"><img src="https://img.shields.io/badge/-LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=96B7E5" alt="LinkedIn" /></a>
   <a href="https://openbadgepassport.com/app/profile/402274"><img src="https://img.shields.io/badge/Open_Badges-212121?style=for-the-badge&logo=openbadges&logoColor=96B7E5" alt="Open Badges" /></a>
   </div>
 </div>
