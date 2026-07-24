@@ -41,7 +41,7 @@ A responsive web application designed to test and expand digital culture knowled
 
 | Stack | Scale | Impact |
 | :--- | :--- | :--- |
-| Python, SQL, HTML/CSS | Academic Project | Enhanced user engagement through intuitive UI and robust data management |
+| Python, HTML/CSS | Academic Project | Enhanced user engagement through intuitive UI and robust data management |
 
 * 🗄️ Engineered structured SQL database tables for dynamic question management.
 * ⚙️ Configured backend routing solutions for seamless gameplay flow.
