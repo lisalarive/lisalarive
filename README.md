@@ -9,10 +9,9 @@
 
 ---
 
-- 🔭 I'm currently studying **Computer Science at Sorbonne Université**
 - 🌱 I’m deep-diving into **Artificial Intelligence, Data Processing, and Web Development**
 - 👯 I love finding elegant solutions to complex problems, balancing strict technical constraints with creative design.
-- 💬 Ask me about **Python, SQL, or Nonviolent Communication (CNV)**
+- 💬 Ask me about **Python, SQL, or Nonviolent Communication (NVC)**
 - ⚡ Fun fact: I coded my very first two-neuron AI model while being tutored by engineering students!
 
 ---
