@@ -38,17 +38,3 @@
     <img src="https://skillicons.dev/icons?i=python,c,html,css,js,bash,git,docker,raspberrypi,figma&perline=10" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Bongo Cat Coding" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Pixel Art Workspace" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Retro Terminal" />
-</p>
