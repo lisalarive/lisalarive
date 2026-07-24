@@ -1,40 +1,52 @@
-# Hi, I'm Lisa Larive 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=96B7E5&height=250&section=header&text=Lisa%20Larive&fontSize=80&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Sorbonne%20Universit%C3%A9&descAlignY=55&descSize=20&fontColor=ffffff" />
 
-### Turning complex logic into creative solutions 💡
-![Profile Views](https://komarev.com/ghpvc/?username=lisalarive&color=blueviolet)
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=96B7E5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+%26+SQL+Developer;Turning+logic+into+solutions" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="center">
-  <code style="color:#00ff00;">Computer Science Undergraduate @ Sorbonne University | Developer</code>
-</p>
-
----
-
-- 🌱 I’m deep-diving into **Artificial Intelligence, Data Processing, and Web Development**
-- 👯 I love finding elegant solutions to complex problems, balancing strict technical constraints with creative design.
-- 💬 Ask me about **Python, SQL, or Nonviolent Communication (NVC)**
-- ⚡ Fun fact: I coded my very first two-neuron AI model while being tutored by engineering students!
+  <br/><br/>
+  
+  <a href="mailto:lisa.larive.22@gmail.com"><img src="https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=gmail&logoColor=96B7E5" /></a>
+  <a href="https://linktr.ee/lisalarive"><img src="https://img.shields.io/badge/Linktree-212121?style=for-the-badge&logo=linktree&logoColor=96B7E5" /></a>
+  <a href="https://linkedin.com/in/lisalarive"><img src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=96B7E5" /></a>
+  <a href="https://openbadgepassport.com/"><img src="https://img.shields.io/badge/Open_Badges-212121?style=for-the-badge&logo=openbadges&logoColor=96B7E5" /></a>
+</div>
 
 ---
 
-### 🔗 Connect with me:
-<a href="https://www.linkedin.com/in/lisa-larive" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn de Lisa">
-</a>
-<a href="https://openbadgepassport.com/app/profile/402274" target="_blank">
-  <img src="https://img.shields.io/badge/Open_Badges-FFFFFF?style=for-the-badge&logo=openbadges&logoColor=FF5722" alt="Open Badge Passeport">
-</a>
+## 👩‍💻 About Me
+
+* 🎓 **Computer Science Student (L3)** at Sorbonne Université (Paris VI).
+* 💡 Passionate about **Software Development**, **Databases**, and **Artificial Intelligence**.
+* 🚀 Building logic-driven applications with a focus on clean code and responsive design.
+* 🤝 Exploring project management, team coordination, and tech innovations.
 
 ---
 
-### 💻 Languages & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,bash,git,docker,raspberrypi,figma&perline=10" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,c,linux,git,html,css,github&theme=dark" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🎮 Api Culture</b> | Digital Culture Quiz Application</summary>
+<br>
+A responsive web application designed to test and expand digital culture knowledge through an interactive quiz format.
+
+| Stack | Scale | Impact |
+| :--- | :--- | :--- |
+| Python, SQL, HTML/CSS | Academic Project | Enhanced user engagement through intuitive UI and robust data management |
+
+* 🗄️ Engineered structured SQL database tables for dynamic question management.
+* ⚙️ Configured backend routing solutions for seamless gameplay flow.
+* 🎨 Designed a responsive and accessible user interface.
+
+</details>
+
+---
