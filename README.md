@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=96B7E5&height=250&section=header&text=Lisa%20Larive&fontSize=80&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Sorbonne%20Universit%C3%A9&descAlignY=55&descSize=20&fontColor=ffffff" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=96B7E5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+%26+Developer;Turning+logic+into+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=96B7E5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+SQL+Developer;Turning+logic+into+solutions" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,c,linux,git,html,css,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,linux,git,html,css,github&theme=dark" />
 </div>
 
 ---
