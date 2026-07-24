@@ -10,9 +10,7 @@
   <div align="center">
   <a href="mailto:lisa.larive.22@gmail.com"><img src="https://img.shields.io/badge/lisa.larive.22@gmail.com-212121?style=for-the-badge&logo=gmail&logoColor=96B7E5" alt="Email" /></a>
   <a href="https://linktr.ee/lisa_larive"><img src="https://img.shields.io/badge/Linktree-212121?style=for-the-badge&logo=linktree&logoColor=96B7E5" alt="Linktree" /></a>
-  <a href="https://www.linkedin.com/in/lisa-larive/">
-  <img src="https://img.shields.io/badge/-LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
+ <a href="https://www.linkedin.com/in/lisa-larive/"><img src="https://img.shields.io/badge/-LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=96B7E5" alt="LinkedIn" /></a>
   <a href="https://openbadgepassport.com/app/profile/402274"><img src="https://img.shields.io/badge/Open_Badges-212121?style=for-the-badge&logo=openbadges&logoColor=96B7E5" alt="Open Badges" /></a>
   </div>
 </div>
