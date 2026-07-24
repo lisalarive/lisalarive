@@ -36,6 +36,13 @@
 
 ---
 
+## 💼 Experience
+
+**Web Front-End Developer (Internship)** | NIDS Consulting
+*August 2026*
+
+---
+
 ## 🚀 Featured Projects
 
 <details>
