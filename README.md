@@ -4,6 +4,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lisalarive&color=blueviolet)
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+%26+SQL+Developer;Turning+logic+into+solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <code style="color:#00ff00;">Computer Science Undergraduate @ Sorbonne University | Developer</code>
 </p>
 
@@ -32,3 +38,7 @@
     <img src="https://skillicons.dev/icons?i=python,c,html,css,js,bash,git,docker,raspberrypi,figma&perline=10" />
   </a>
 </p>
+
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=transparent&hideBorder=true)
