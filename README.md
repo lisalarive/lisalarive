@@ -77,6 +77,13 @@ Exploring: Web development best practices
 
 ---
 
+## 🌱 Beyond the Code
+
+* 💬 Ask me about **Python**, **SQL**, or **Nonviolent Communication (NVC)**.
+* ⚡ **Fun fact:** I coded my very first two-neuron AI model while being tutored by engineering students!
+
+---
+
 <br/>
 
 <div align="center">
