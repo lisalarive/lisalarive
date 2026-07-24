@@ -30,6 +30,6 @@
 ### 💻 Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,sql,bash,git,docker,raspberrypi,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,bash,git,docker,raspberrypi,figma&perline=10" />
   </a>
 </p>
