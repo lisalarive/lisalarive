@@ -50,3 +50,21 @@ A responsive web application designed to test and expand digital culture knowled
 </details>
 
 ---
+
+## 🎯 Current Focus
+
+```yaml
+Learning: Advanced Algorithms / Artificial Intelligence
+Building: Database structures and backend logic for Api Culture
+Exploring: Web development best practices
+```
+
+---
+
+<br/>
+
+<div align="center">
+  <i>"Turning complex problems into elegant solutions."</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=96B7E5&height=120&section=footer" />
+</div>
