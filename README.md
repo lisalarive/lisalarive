@@ -51,6 +51,16 @@ A responsive web application designed to test and expand digital culture knowled
 
 ---
 
+## 🏆 Certifications
+
+**Plateformes & MOOCs**
+<div align="left">
+  <a href="https://openbadgepassport.com/app/profile/402274"><img src="https://img.shields.io/badge/Open_Badge_Passport-212121?style=for-the-badge&logo=openbadges&logoColor=96B7E5" alt="Profil Open Badges" /></a>
+  <a href="https://openbadgepassport.com/app/badge/info/654874"><img src="https://img.shields.io/badge/FUN_MOOC-212121?style=for-the-badge&logo=mdbook&logoColor=96B7E5" alt="Badge FUN MOOC" /></a>
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
