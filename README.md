@@ -2,12 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=96B7E5&height=250&section=header&text=Lisa%20Larive&fontSize=80&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Sorbonne%20Universit%C3%A9&descAlignY=55&descSize=20&fontColor=ffffff" />
   <br/>
 
-  <img src="logo_LL_anime_transparent_loop.apng" alt="Logo LL" width="150">
-
-  <br/>
+  <img src="logo_LL_anime_transparent_loop_fluide.apng" alt="Logo LL" width="180">
   
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=96B7E5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+SQL+Developer;Turning+logic+into+solutions" alt="Typing SVG" />
 
   <br/>
   </a>
