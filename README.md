@@ -1,11 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=96B7E5&height=250&section=header&text=Lisa%20Larive&fontSize=80&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Sorbonne%20Universit%C3%A9&descAlignY=55&descSize=20&fontColor=ffffff" />
+  <br/>
 
-  <a href="https://git.io/typing-svg">
+  <img src="logo_LL_anime_transparent_loop.apng" alt="Logo LL" width="150">
+
+  <br/>
+  
+<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=96B7E5&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Python+SQL+Developer;Turning+logic+into+solutions" alt="Typing SVG" />
-  </a>
 
-<img src="logo_LL_anime_transparent_loop.apng" alt="Logo LL" width="120">
+  <br/>
+  </a>
 
   <div align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lisa.larive.22@gmail.com"><img src="https://img.shields.io/badge/lisa.larive.22@gmail.com-212121?style=for-the-badge&logo=gmail&logoColor=96B7E5" alt="Email" /></a>&nbsp;&nbsp;<a href="https://linktr.ee/lisa_larive"><img src="https://img.shields.io/badge/Linktree-212121?style=for-the-badge&logo=linktree&logoColor=96B7E5" alt="Linktree" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/lisa-larive/"><img src="https://img.shields.io/badge/-LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=96B7E5" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="#lien-a-venir"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=vercel&logoColor=96B7E5" alt="Portfolio" /></a> &nbsp;&nbsp; <a href="https://openbadgepassport.com/app/profile/402274"><img src="https://img.shields.io/badge/Open_Badges-212121?style=for-the-badge&logo=openbadges&logoColor=96B7E5" alt="Open Badges" /></a>
